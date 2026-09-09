@@ -19,7 +19,6 @@ public final class GameChoices {
     public static final String LIZARD = "Lizard " + lizardEmoji;
     public static final String SPOCK = "Spock " + spockEmoji;
 
-    // Prevent instantiation!
     private GameChoices() {
     }
 }
